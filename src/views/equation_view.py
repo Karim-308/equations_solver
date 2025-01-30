@@ -26,7 +26,7 @@ class EquationSolverView(QMainWindow):
         # Disable maximize button while keeping minimize and close buttons
         self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)
         
-        self.setWindowTitle("Function Plotter")
+        self.setWindowTitle("Functions Solver")
         self.setMinimumSize(1000, 600)
         self.setFixedSize(1000, 600)
         self.setStyleSheet("background-color: #EDE4C7;")
