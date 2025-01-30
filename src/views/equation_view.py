@@ -115,7 +115,7 @@ class EquationSolverView(QMainWindow):
         eq2_label.setStyleSheet(label_style)
         self.eq2_input = QLineEdit()
         self.eq2_input.setStyleSheet(input_style)
-        self.eq2_input.setPlaceholderText("e.g. sin(x)")
+        self.eq2_input.setPlaceholderText("e.g. log10(x) + 3")
 
         # Solve button
         solve_button = QPushButton("Solve and Plot")
