@@ -28,7 +28,36 @@ pytest -v
 ```
 
 ## Snapshots
-Add visual snapshots of the tool in action here.
+
+<p align="center">
+    <img src="https://ibb.co/HfqTX23r" alt="Snapshot 1" />
+</p>
+<p align="center"><em>Snapshot 1</em></p>
+
+<p align="center">
+    <img src="https://ibb.co/FLJc0Zdy" alt="Snapshot 2" />
+</p>
+<p align="center"><em>Snapshot 2</em></p>
+
+<p align="center">
+    <img src="https://ibb.co/VW0hHvvw" alt="Snapshot 3" />
+</p>
+<p align="center"><em>Snapshot 3</em></p>
+
+<p align="center">
+    <img src="https://ibb.co/gLDDWdFW" alt="Snapshot 4" />
+</p>
+<p align="center"><em>Snapshot 4</em></p>
+
+<p align="center">
+    <img src="https://ibb.co/rf3jJrbS" alt="Snapshot 5" />
+</p>
+<p align="center"><em>Snapshot 5</em></p>
+
+<p align="center">
+    <img src="https://ibb.co/Dgz9KxBG" alt="Snapshot 6" />
+</p>
+<p align="center"><em>Snapshot 6</em></p>
 
 ## Contributing
 1. Fork the repository
