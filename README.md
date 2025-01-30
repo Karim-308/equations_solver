@@ -81,6 +81,7 @@ pytest -v
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
+
 Karim Ibrahim Saad Abd-Elrazek  
-Email: karimabelrazek@gmail.com  
-LinkedIn: Karim Elsahhawy
+Email: [karimabelrazek@gmail.com](mailto:karimabelrazek@gmail.com)  
+LinkedIn: [Karim Elshehawy](https://www.linkedin.com/in/karim-elshehawy/)
