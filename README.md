@@ -28,36 +28,47 @@ pytest -v
 ```
 
 ## Snapshots
+<p align="center">
+    <a href="https://ibb.co/HfqTX23r">
+        <img src="https://i.ibb.co/gLJZ67hD/working-example-log10-solv.png" alt="working-example-log10-solv" border="0">
+    </a>
+</p>
+<p align="center"><em>Working example (log10)</em></p>
 
 <p align="center">
-    <img src="https://ibb.co/HfqTX23r" alt="Snapshot 1" />
+    <a href="https://ibb.co/FLJc0Zdy">
+        <img src="https://i.ibb.co/zTbC79tB/unable-to-resolve-input-s-solv.png" alt="unable-to-resolve-input-s-solv" border="0">
+    </a>
 </p>
-<p align="center"><em>Snapshot 1</em></p>
+<p align="center"><em>Unable to resolve input</em></p>
 
 <p align="center">
-    <img src="https://ibb.co/FLJc0Zdy" alt="Snapshot 2" />
+    <a href="https://ibb.co/VW0hHvvw">
+        <img src="https://i.ibb.co/SXD1QKKf/mising-intersection-points-at-00-solv.png" alt="mising-intersection-points-at-00-solv" border="0">
+    </a>
 </p>
-<p align="center"><em>Snapshot 2</em></p>
+<p align="center"><em>Missing intersection points</em></p>
 
 <p align="center">
-    <img src="https://ibb.co/VW0hHvvw" alt="Snapshot 3" />
+    <a href="https://imgbb.com/">
+        <img src="https://i.ibb.co/v6JJdhvd/missiing-operand-solv.png" alt="missiing-operand-solv" border="0">
+    </a>
 </p>
-<p align="center"><em>Snapshot 3</em></p>
+<p align="center"><em>Missing operand</em></p>
 
 <p align="center">
-    <img src="https://ibb.co/gLDDWdFW" alt="Snapshot 4" />
+    <a href="https://imgbb.com/">
+        <img src="https://i.ibb.co/3Yv3HZfq/missing-operator-solv.png" alt="missing-operator-solv" border="0">
+    </a>
 </p>
-<p align="center"><em>Snapshot 4</em></p>
+<p align="center"><em>Missing operator</em></p>
 
 <p align="center">
-    <img src="https://ibb.co/rf3jJrbS" alt="Snapshot 5" />
+    <a href="https://ibb.co/Dgz9KxBG">
+        <img src="https://i.ibb.co/gFmSg50v/Sqrt-and-quadartic-solv.png" alt="Sqrt-and-quadartic-solv" border="0">
+    </a>
 </p>
-<p align="center"><em>Snapshot 5</em></p>
-
-<p align="center">
-    <img src="https://ibb.co/Dgz9KxBG" alt="Snapshot 6" />
-</p>
-<p align="center"><em>Snapshot 6</em></p>
+<p align="center"><em>Sqrt and quadratic</em></p>
 
 ## Contributing
 1. Fork the repository
